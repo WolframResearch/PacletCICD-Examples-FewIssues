@@ -3593,8 +3593,8 @@ Notebook[
   "ResourceType" -> "Paclet",
   "ResourceCreateNotebook" -> True,
   "TemplateVersion" -> "1.5.53",
-  "CreationTimestamp" -> 3852038786.7229432,
-  "UpdatedTimestamp" -> 3852038786.7229432,
+  "CreationTimestamp" -> 3852038787.,
+  "UpdatedTimestamp" -> 3852038787.,
   "CompatibilityTest" -> HoldComplete[
    BinaryDeserialize[
     BaseDecode[
