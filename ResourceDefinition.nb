@@ -1896,7 +1896,7 @@ Notebook[
             CellID -> 475746126
            ],
            Cell[
-            "https://github.com/rhennigan/PacletCICD-Examples-MoreIssues",
+            "https://github.com/WolframResearch/PacletCICD-Examples-MoreIssues",
             "Text",
             CellID -> 68630577
            ]
